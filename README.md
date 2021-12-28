@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MichaelWagnr
+- 👀 I’m interested in music and fitness
+- 🌱 I’m currently learning react.js
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me michaelwagner780@gmail.com
