@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I’m Michael Wagner</h1>
 <h4 align="center">I'm an aspiring Fullstack Developer with an interest in leveraging Software to solve everyday problems.</h3>
 <hr/>
-<ul>
-  <li>📚 Currently reading Eloquent Javascript by Marijn Haverbeke and Learning React by Alex Banks and Eve Porcello</li>
-  <li>📫 How to reach me <a href="mailto:michaelwagner780@gmail.com">michaelwagner780@gmail.com</a></li>
-  <li>💻 Check out my portfolio <a href="michaelwagnr.github.io/portfolio" rel="noreferrer">michaelwagnr.github.io/portfolio</a></li>
-</ul>
+
+  - 📚 Currently reading Eloquent Javascript by Marijn Haverbeke and Learning React by Alex Banks and Eve Porcello</li>
+  - 📫 How to reach me <a href="mailto:michaelwagner780@gmail.com" target="blank">michaelwagner780@gmail.com</a></li>
+  - 💻 Check out my portfolio [michaelwagnr.github.io/portfolio](michaelwagnr.github.io/portfolio)
+
 
 <h4 align="center">Uses:</h4>
 
