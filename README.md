@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Michael Wagner</h1>
-<h4 align="center">I'm an aspiring Fullstack Developer with an interest in leveraging Software to solve everyday problems.</h3>
+<h4 align="center">I'm an aspiring Fullstack Developer with an interest in leveraging software to solve everyday problems.</h3>
 <hr/>
 
   - 📚 Currently reading Eloquent Javascript by Marijn Haverbeke and Learning React by Alex Banks and Eve Porcello</li>
