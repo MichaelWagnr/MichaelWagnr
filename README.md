@@ -4,7 +4,7 @@
 <ul>
   <li>📚 Currently reading Eloquent Javascript by Marijn Haverbeke and Learning React by Alex Banks and Eve Porcello</li>
   <li>📫 How to reach me <a href="mailto:michaelwagner780@gmail.com">michaelwagner780@gmail.com</a></li>
-  <li>💻 Check out my portfolio <a href="michaelwagnr.github.io/portfolio" target="_blank">michaelwagnr.github.io/portfolio</a></li>
+  <li>💻 Check out my portfolio <a href="michaelwagnr.github.io/portfolio">michaelwagnr.github.io/portfolio</a></li>
 </ul>
 
 <h4 align="center">Uses:</h4>
