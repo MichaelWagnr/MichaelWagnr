@@ -4,7 +4,7 @@
 
   - 📚 Currently reading Eloquent Javascript by Marijn Haverbeke and Learning React by Alex Banks and Eve Porcello</li>
   - 📫 How to reach me <a href="mailto:michaelwagner780@gmail.com" target="blank">michaelwagner780@gmail.com</a></li>
-  - 💻 Check out my portfolio [michaelwagnr.github.io/portfolio](michaelwagnr.github.io/portfolio)
+  - 💻 Check out my portfolio [michaelwagnr.github.io/portfolio](https://michaelwagnr.github.io/portfolio)
 
 
 <h4 align="center">Uses:</h4>
