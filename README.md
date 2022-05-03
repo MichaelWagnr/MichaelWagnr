@@ -2,7 +2,7 @@
 <h4 align="center">I'm an aspiring Fullstack Developer with an interest in leveraging software to solve everyday problems.</h3>
 <hr/>
 
-  - 📚 Currently reading Eloquent Javascript by Marijn Haverbeke and Learning React by Alex Banks and Eve Porcello</li>
+  - 📚 Currently reading Head First Git by Raju Gandhi
   - 📫 How to reach me <a href="mailto:michaelwagner780@gmail.com" target="blank">michaelwagner780@gmail.com</a></li>
   - 💻 Check out my portfolio [michaelwagnr.github.io](https://michaelwagnr.github.io)
 
