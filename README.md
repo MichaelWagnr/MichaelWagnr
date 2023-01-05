@@ -33,5 +33,6 @@
 
 <hr/>
 
+<div align="center">
 <h4>Thank you for looking at my GitHub profile!</h4>       
-
+</div>
