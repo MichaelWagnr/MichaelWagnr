@@ -24,6 +24,11 @@
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> 
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> 
 </div>
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWagnr&layout=compact&theme=github_dark"/>
+</div>
 
 <hr/>
 
