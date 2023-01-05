@@ -4,7 +4,7 @@
 
   - 📚 Currently reading Programming TypeScript by Boris Cherny
   - 📫 How to reach me <a href="mailto:michaelwagner780@gmail.com" target="blank">michaelwagner780@gmail.com</a></li>
-  - 💻 Check out my portfolio [michaelwagnr.github.io](https://michaelwagnr.github.io)
+  - 💻 Check out my portfolio [michaelwagner.tech](https://michaelwagner.tech)
 
 
 <h4 align="center">I'm very fond of:</h4>
@@ -24,6 +24,12 @@
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> 
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> 
 </div>
+
+<br/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelWagnr&layout=compact&theme=tokyonight"/>
+</div>
+
 
 <hr/>
 
