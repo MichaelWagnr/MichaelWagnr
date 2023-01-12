@@ -26,10 +26,6 @@
 </div>
 <br/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelWagnr&layout=compact&theme=github_dark"/>
-</div>
-
 <hr/>
 
 <div align="center">
