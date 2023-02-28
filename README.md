@@ -19,8 +19,8 @@
 </div>
 
 <br>📚 Currently learning Docker, NestJS and SQL
-<br>📫 How to reach me <a href="mailto:michaelwagner780@gmail.com" target="_blank">michaelwagner780@gmail.com</a></li>
-<br>💻 Check out my portfolio [michaelwagner.tech](https://michaelwagner.tech)
+<br>📫 How to reach me <a href="mailto:michaelwagner780@gmail.com" target="blank">michaelwagner780@gmail.com</a></li>
+<br>💻 Check out my portfolio <a href="https://michaelwagner.tech" target="_blank">michaelwagner.tech</a>
 
 </br>
 <div align="right"><a href="https://www.linkedin.com/in/mwagner514" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a></div>
