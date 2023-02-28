@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I’m Michael Wagner</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-<h3 align="center"><a href="https://michaelwagner.tech" target="_blank">michaelwagner.tech</a></h3>
+<h3 align="center">Full Stack Web Developer</br><a href="https://michaelwagner.tech" target="_blank">michaelwagner.tech</a></h3>
 
 <div align="center">
 
