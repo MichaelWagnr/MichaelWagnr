@@ -19,7 +19,7 @@
 </div>
 
 <br>📚 Currently learning Docker, NestJS and SQL
-<br>📫 How to reach me <a href="mailto:michaelwagner780@gmail.com" target="blank">michaelwagner780@gmail.com</a></li>
+<br>📫 How to reach me <a href="mailto:michaelwagner780@gmail.com" target="_blank">michaelwagner780@gmail.com</a></li>
 <br>💻 Check out my portfolio [michaelwagner.tech](https://michaelwagner.tech)
 
 </br>
